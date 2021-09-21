@@ -29,3 +29,25 @@
 .lane{
     color: rgb(24, 192, 61);
 }
+
+table { 
+    margin: .5em;
+    border-collapse: collapse;
+    border-spacing: 1em;
+    margin: 1rem;
+    background-color:rgb(232,232,232);
+  
+}
+ th{
+     border: solid 1px rgb(101, 19, 139);
+     color:rgba(105, 90, 205, 0.842);
+     text-align: center;
+     padding: .2em;
+ }
+td{
+    border: solid 1px rgb(101, 19, 139);
+    color: rgb(202, 74, 52);
+    text-align: center;
+    padding: .1em;
+
+}
